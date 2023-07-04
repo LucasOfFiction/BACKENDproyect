@@ -1,5 +1,5 @@
 # BACKENDproyect
-##PROYECTO INTEGRADOR DE BACKEN - ACADEMIA NUMEN
+## PROYECTO INTEGRADOR DE BACKEN - ACADEMIA NUMEN
 - Contar con una base de datos propia y cuenta en mongocompas.
 
 - Desarrollar el proyecto con un servidor en node que utilice rutas con sus respectivos metodos http para la comunicacion con la base de datos.
